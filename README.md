@@ -13,4 +13,4 @@ Feature :
  - can change or delete some task
 
 # documentation about this apk
-![dokumentasi file] (File Dokumentasi sesi 8 - Evander O.L. - 2602075983.docx)
+![dokumentasi file] (https://github.com/Vanss3375/ToDo-List/blob/main/File%20Dokumentasi%20sesi%208%20-%20Evander%20O.L.%20-%202602075983.docx)
