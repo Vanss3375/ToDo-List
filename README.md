@@ -11,3 +11,6 @@ Implementation :
 Feature :
  - add some note on apk
  - can change or delete some task
+
+# documentation about this apk
+![dokumentasi file] (File Dokumentasi sesi 8 - Evander O.L. - 2602075983.docx)
